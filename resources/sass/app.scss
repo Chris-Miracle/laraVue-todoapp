@@ -13,3 +13,6 @@ body{
     height: 100vh;
     background: radial-gradient(circle, rgba(74, 119, 244, 0.658) 32%, rgb(238, 72, 244) 100%);
 }
+.todo svg:hover{
+    cursor: pointer;
+}
